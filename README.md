@@ -1,5 +1,6 @@
 # Free-Robux-Generator
 A tool to generate robux for your roblox account. Working June 2024
+Originally released back in last november - this is a repost of the updated version.
 
 # Tool Demonstration
 Enter your username, followed by the amount of robux you want to add, generation takes anywhere from 5 to 30 seconds typically.
